@@ -1,0 +1,2 @@
+[console_scripts]
+cad-assembly = cad_assembly.cli:app

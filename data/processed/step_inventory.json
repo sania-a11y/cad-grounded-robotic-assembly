@@ -1,0 +1,446 @@
+{
+    "product_count": 12,
+    "product_names": [
+        "PIPER.STEP",
+        "Encoder",
+        "Adapter_plate_Piperarm",
+        "Enercon adapter plate",
+        "Spare_new_baseplate",
+        "hub n Adopter",
+        "E-B7009-DB",
+        "Encoder bolt",
+        "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+        "bolt_iso_7412-m20x60-10_9",
+        "E-LZAU52-M16.step",
+        "Adapter plate_Windmill_hub"
+    ],
+    "occurrence_count": 59,
+    "component_counts": {
+        "bolt_iso_7412-m20x60-10_9": 48,
+        "E-LZAU52-M16.step": 1,
+        "Spare_new_baseplate": 1,
+        "E-B7009-DB": 1,
+        "Adapter_plate_Piperarm": 2,
+        "PIPER.STEP": 1,
+        "hub n Adopter": 1,
+        "Encoder": 1,
+        "Encoder bolt": 1,
+        "Adapter plate_Windmill_hub": 1,
+        "Enercon adapter plate": 1
+    },
+    "occurrences": [
+        {
+            "occurrence_id": 1445,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1446,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1447,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1448,
+            "parent_definition_id": 457,
+            "child_definition_id": 1008,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "E-LZAU52-M16.step"
+        },
+        {
+            "occurrence_id": 1449,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1450,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1451,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1452,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1453,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1454,
+            "parent_definition_id": 457,
+            "child_definition_id": 527,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "Spare_new_baseplate"
+        },
+        {
+            "occurrence_id": 1455,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1456,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1457,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1458,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1459,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1460,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1461,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1462,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1463,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1464,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1465,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1466,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1467,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1468,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1469,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1470,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1471,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1472,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1473,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1474,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1475,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1476,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1477,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1478,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1479,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1480,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1481,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1482,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1483,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1484,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1485,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1486,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1487,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1488,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1489,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1490,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1491,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1492,
+            "parent_definition_id": 457,
+            "child_definition_id": 1408,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "E-B7009-DB"
+        },
+        {
+            "occurrence_id": 1493,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1494,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1495,
+            "parent_definition_id": 457,
+            "child_definition_id": 741,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "bolt_iso_7412-m20x60-10_9"
+        },
+        {
+            "occurrence_id": 1496,
+            "parent_definition_id": 457,
+            "child_definition_id": 1186,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "Adapter_plate_Piperarm"
+        },
+        {
+            "occurrence_id": 1497,
+            "parent_definition_id": 457,
+            "child_definition_id": 1186,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "Adapter_plate_Piperarm"
+        },
+        {
+            "occurrence_id": 1498,
+            "parent_definition_id": 457,
+            "child_definition_id": 69,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "PIPER.STEP"
+        },
+        {
+            "occurrence_id": 1499,
+            "parent_definition_id": 457,
+            "child_definition_id": 1333,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "hub n Adopter"
+        },
+        {
+            "occurrence_id": 1500,
+            "parent_definition_id": 457,
+            "child_definition_id": 257,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "Encoder"
+        },
+        {
+            "occurrence_id": 1501,
+            "parent_definition_id": 457,
+            "child_definition_id": 51,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "Encoder bolt"
+        },
+        {
+            "occurrence_id": 1502,
+            "parent_definition_id": 457,
+            "child_definition_id": 316,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "Adapter plate_Windmill_hub"
+        },
+        {
+            "occurrence_id": 1503,
+            "parent_definition_id": 457,
+            "child_definition_id": 411,
+            "parent": "Hub n Adopter_RoboArm_Prototype2_Industrialgrade",
+            "child": "Enercon adapter plate"
+        }
+    ]
+}

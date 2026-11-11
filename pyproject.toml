@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cad-grounded-robotic-assembly"
+version = "0.1.0"
+description = "CAD-grounded assembly planning and simulated robotic execution"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "networkx>=3.2",
+  "pydantic>=2.6",
+  "typer>=0.12",
+  "rich>=13.7",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0", "ruff>=0.3"]
+
+[project.scripts]
+cad-assembly = "cad_assembly.cli:app"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+
+[tool.ruff]
+line-length = 100

@@ -1,0 +1,13 @@
+{
+  "assembly_id": "example_hub_subassembly",
+  "goal": "Attach the adapter plate to the hub using the specified fasteners.",
+  "parts": [
+    {"id": "adapter_plate", "kind": "structural_part"},
+    {"id": "hub", "kind": "structural_part"},
+    {"id": "m4_fastener", "kind": "fastener"}
+  ],
+  "relations": [
+    {"source": "adapter_plate", "type": "fits", "target": "hub"},
+    {"source": "m4_fastener", "type": "fastened_by", "target": "adapter_plate"}
+  ]
+}
